@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T14:57:14.650Z" agent="5.0 (X11)" etag="pM-J1KAGbzVYMuFHa2IL" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T15:08:05.797Z" agent="5.0 (X11)" etag="0nKKI4oYxdQu95k45SEi" version="14.2.9" type="github">
   <diagram id="OBJG1eIt0na-M_Iumhf0" name="Page-1">
-    <mxGraphModel dx="646" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="Fluxograma Processo Legislativo Eletrônico" lucidchartObjectId="fB86fQmWT2FW" id="kLoiwdzfELyBHfb5iOQ--1">
+        <UserObject label="&lt;font style=&quot;font-size: 14px&quot;&gt;Fluxograma Processo Legislativo Eletrônico&lt;/font&gt;" lucidchartObjectId="fB86fQmWT2FW" id="kLoiwdzfELyBHfb5iOQ--1">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=12;fontColor=#999999;fontStyle=1;align=center;spacing=7;strokeOpacity=100;fillOpacity=100;" parent="1" vertex="1">
-            <mxGeometry x="36" y="24" width="276" height="41" as="geometry" />
+            <mxGeometry x="36" y="24" width="324" height="41" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Departamenteo de Tecnologia da Informação" lucidchartObjectId="xD86raEp4uvp" id="kLoiwdzfELyBHfb5iOQ--2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=11;fontColor=#999999;fontStyle=1;spacing=3;strokeOpacity=100;fillOpacity=100;" parent="1" vertex="1">
-            <mxGeometry x="832" y="24" width="236" height="36" as="geometry" />
+            <mxGeometry x="821" y="24" width="258" height="36" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="4E86ajJ.aiLK" id="kLoiwdzfELyBHfb5iOQ--3">
@@ -23,14 +23,9 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="%date{DD.MM.YYYY}%" placeholders="1" lucidchartObjectId="BH86H26-wex_" id="kLoiwdzfELyBHfb5iOQ--4">
+        <UserObject label="03 / fev / 2021" lucidchartObjectId="2H868Ppqg2rx" id="kLoiwdzfELyBHfb5iOQ--5">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=11;fontColor=#999999;fontStyle=1;spacing=3;strokeOpacity=100;fillOpacity=100;" parent="1" vertex="1">
-            <mxGeometry x="684" y="24" width="144" height="36" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="-" lucidchartObjectId="2H868Ppqg2rx" id="kLoiwdzfELyBHfb5iOQ--5">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=11;fontColor=#999999;fontStyle=1;spacing=3;strokeOpacity=100;fillOpacity=100;" parent="1" vertex="1">
-            <mxGeometry x="744" y="24" width="144" height="36" as="geometry" />
+            <mxGeometry x="694" y="24" width="144" height="36" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="kLoiwdzfELyBHfb5iOQ--6" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;horizontalStack=0;whiteSpace=wrap;fontSize=11;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7;horizontal=0;strokeWidth=2;" parent="1" vertex="1">
@@ -92,9 +87,6 @@
         </mxCell>
         <mxCell id="dpODGWyExeZbGpC8FYgF-33" value="&lt;span&gt;Enviar E-mail para a Diretoria Legislativa&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=11;verticalAlign=middle;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="348.25" y="455" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dpODGWyExeZbGpC8FYgF-38" value="&lt;span&gt;Elaborar modelo de email a ser&amp;nbsp;&lt;/span&gt;&lt;span&gt;seguindo&amp;nbsp;&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span&gt;contendo Dados da proposição e código de protocolo e versão da proposição em arquivo de texto editavel)&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;fontSize=11;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="473" y="422" width="136" height="98" as="geometry" />
         </mxCell>
         <mxCell id="dpODGWyExeZbGpC8FYgF-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" target="dpODGWyExeZbGpC8FYgF-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -215,7 +207,7 @@
         <mxCell id="Xj-LbmM8ou3I9_Vumz4o-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dpODGWyExeZbGpC8FYgF-88" target="dpODGWyExeZbGpC8FYgF-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpODGWyExeZbGpC8FYgF-88" value="&lt;span&gt;Montar pauta da sessão&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=11;strokeColor=#5E5E5E;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="dpODGWyExeZbGpC8FYgF-88" value="&lt;div&gt;&lt;span&gt;Montar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;pauta da sessão&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=11;strokeColor=#5E5E5E;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="842" y="1009.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xj-LbmM8ou3I9_Vumz4o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dpODGWyExeZbGpC8FYgF-102" target="5vSnadsu7pzlfIHEnXT9-16" edge="1">
@@ -282,12 +274,12 @@
         <mxCell id="5vSnadsu7pzlfIHEnXT9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Xj-LbmM8ou3I9_Vumz4o-6" target="5vSnadsu7pzlfIHEnXT9-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="528" y="1096" />
+              <mxPoint x="528" y="1075" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xj-LbmM8ou3I9_Vumz4o-6" value="Registrar Leitura e encaminha para Procuradoria Legislativa &lt;span&gt;para emissão do parecer prévio&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=11;verticalAlign=top;strokeColor=#5E5E5E;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="354" y="1040" width="120" height="93.5" as="geometry" />
+          <mxGeometry x="338" y="1040" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xj-LbmM8ou3I9_Vumz4o-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xj-LbmM8ou3I9_Vumz4o-15" target="Xj-LbmM8ou3I9_Vumz4o-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -551,7 +543,7 @@
         <mxCell id="5vSnadsu7pzlfIHEnXT9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KjsZoyq6tlldhdRgNhib-12" target="5vSnadsu7pzlfIHEnXT9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjsZoyq6tlldhdRgNhib-12" value="Emitir certidão de aptidão assinado eletronicamente" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="KjsZoyq6tlldhdRgNhib-12" value="Emitir certidão de aptidão assinada eletronicamente" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="696" y="1030" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5vSnadsu7pzlfIHEnXT9-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;rounded=1;strokeColor=#5E5E5E;strokeWidth=2;fontSize=11;align=left;" parent="1" vertex="1">
@@ -581,7 +573,7 @@
         <mxCell id="5vSnadsu7pzlfIHEnXT9-25" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="167.33999999999997" y="904.5" width="13.33" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5vSnadsu7pzlfIHEnXT9-26" value="Emitir certidão de recebimento assinado eletronicamente" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fontSize=11;strokeColor=#5E5E5E;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="5vSnadsu7pzlfIHEnXT9-26" value="Emitir certidão de recebimento assinada eletronicamente" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fontSize=11;strokeColor=#5E5E5E;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="354" y="932.5" width="120" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="5vSnadsu7pzlfIHEnXT9-27" value="&lt;font style=&quot;font-size: 9px&quot;&gt;SAPL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
@@ -611,7 +603,7 @@
           <mxGeometry x="288" y="1090" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5vSnadsu7pzlfIHEnXT9-34" value="&lt;font style=&quot;font-size: 9px&quot;&gt;SAPL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="438.25" y="1120.75" width="30" height="10" as="geometry" />
+          <mxGeometry x="457.75" y="1097" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5vSnadsu7pzlfIHEnXT9-35" value="&lt;font style=&quot;font-size: 9px&quot;&gt;SAPL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="647" y="1188.75" width="30" height="10" as="geometry" />
@@ -658,7 +650,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vSnadsu7pzlfIHEnXT9-51" value="Emitir certidão de apreciação e votação de materia&lt;span&gt; assinado eletronicamente&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fontSize=11;verticalAlign=top;strokeColor=#5E5E5E;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="5vSnadsu7pzlfIHEnXT9-51" value="Emitir certidão de apreciação e votação de materia&lt;span&gt; assinada eletronicamente&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fontSize=11;verticalAlign=top;strokeColor=#5E5E5E;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1130" y="1146" width="120" height="92" as="geometry" />
         </mxCell>
         <mxCell id="nPW16Iii223jFIjPTug2-1" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
@@ -737,6 +729,27 @@
         </mxCell>
         <mxCell id="nPW16Iii223jFIjPTug2-20" value="Emitir a redação final do texto de Lei&lt;span&gt; assinada eletronicamente&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fontSize=11;verticalAlign=top;strokeColor=#5E5E5E;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1289.67" y="1346" width="120" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="nPW16Iii223jFIjPTug2-22" value="" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1890" width="26.67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nPW16Iii223jFIjPTug2-23" value="&lt;font style=&quot;font-size: 11px&quot;&gt;SAPL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="96.67" y="1920" width="33.33" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nPW16Iii223jFIjPTug2-24" value="Procedimento efetuado utilizando e-mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134" y="1890" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nPW16Iii223jFIjPTug2-25" value="Procedimento efetuado utilizando o Sistema de Apoio ao Processo Parlamentar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134" y="1922" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nPW16Iii223jFIjPTug2-26" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1914" as="sourcePoint" />
+            <mxPoint x="410" y="1914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nPW16Iii223jFIjPTug2-27" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Obs.:&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60.67" y="1870" width="36" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
